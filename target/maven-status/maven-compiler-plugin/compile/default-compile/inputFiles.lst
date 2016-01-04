@@ -1,0 +1,10 @@
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/HttpSocket.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/Requests/RequestParser.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/Server.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/Routers/iAppRouter.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/HttpServerSocket.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ResponseBuilder/iResponseBuilder.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/Requests/Request.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/ServerConfig.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/iHttpServerSocket.java
+/Users/jonathangraham/code/server/src/main/java/com/jgraham/server/ServerConnection/iHttpSocket.java
